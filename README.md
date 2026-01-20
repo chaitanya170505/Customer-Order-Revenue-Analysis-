@@ -63,6 +63,4 @@ Since the associated e-commerce website has no active users, the dataset used in
    - Built a Next.js e-commerce platform to generate test transactional data
    - Designed PostgreSQL schema to support analytics workflows
 
----
 
-## 📂 Repository Structure
