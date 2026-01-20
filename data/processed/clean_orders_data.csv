@@ -1,0 +1,201 @@
+order_id,order_date,customer_id,gender,age,age_group,city,state,product_category,product_name,quantity,price,discount,payment_method,order_status,revenue
+1001,2024-01-25,C022,Other,,Unknown,Hyderabad,Telangana,Fashion,Jeans,2,2396,0.3,Net Banking,Returned,3354.3999999999996
+1002,2024-02-27,C108,Male,,Unknown,Chennai,Tamil Nadu,Health,Protein Powder,3,1987,0.3,Net Banking,Cancelled,4172.7
+1003,2024-02-03,C024,Male,,Unknown,Delhi,Delhi,Fashion,Jeans,3,3707,0.05,Cod,Cancelled,10564.949999999999
+1004,2024-02-12,C104,Male,60,60+,Mumbai,Maharashtra,Beauty,Skincare Kit,1,591,0.2,Credit Card,Cancelled,472.8
+1005,2024-02-22,C009,Female,,Unknown,Hyderabad,Telangana,Electronics,Headphones,1,4427,,Credit Card,Returned,
+1006,2024-01-10,C108,Other,51,46-59,Chennai,Tamil Nadu,Electronics,Wireless Mouse,2,4650,,Net Banking,Cancelled,
+1007,2024-02-15,C083,Male,,Unknown,Delhi,Delhi,Electronics,Wireless Mouse,2,2428,0.15,Upi,Returned,4127.599999999999
+1008,2024-01-11,C062,Male,60,60+,Pune,Maharashtra,Home,Curtains,1,3688,0.3,Upi,Returned,2581.6
+1009,2024-02-26,C039,Female,,Unknown,Delhi,Delhi,Electronics,Headphones,1,1261,,Credit Card,Cancelled,
+1010,2024-01-08,C103,Male,,Unknown,Hyderabad,Telangana,Home,Kitchen Set,1,3864,,Net Banking,Cancelled,
+1011,2024-03-01,C078,Male,,Unknown,Bangalore,Karnataka,Fashion,Dress,1,3147,0.05,Upi,Delivered,2989.6499999999996
+1012,2024-01-28,C042,Female,49,46-59,Chennai,Tamil Nadu,Beauty,Lipstick,1,5630,,Upi,Returned,
+1013,2024-02-27,C052,Female,40,36-45,Bangalore,Karnataka,Beauty,Skincare Kit,1,591,0.2,Upi,Delivered,472.8
+1014,2024-02-29,C025,Female,,Unknown,Mumbai,Maharashtra,Beauty,Skincare Kit,1,1373,,Debit Card,Delivered,
+1015,2024-01-05,C055,Male,56,46-59,Delhi,Delhi,Home,Curtains,2,5970,,Upi,Delivered,
+1016,2024-01-02,C069,Other,61,60+,Bangalore,Karnataka,Health,Protein Powder,3,4407,0.3,Credit Card,Cancelled,9254.699999999999
+1017,2024-01-19,C114,Male,,Unknown,Delhi,Delhi,Fashion,Jeans,1,740,0.1,Debit Card,Returned,666.0
+1018,2024-01-03,C054,Other,44,36-45,Chennai,Tamil Nadu,Beauty,Lipstick,1,3762,0.0,Credit Card,Returned,3762.0
+1019,2024-01-16,C090,Other,,Unknown,Bangalore,Karnataka,Home,Curtains,2,3562,0.1,Net Banking,Delivered,6411.6
+1020,2024-01-19,C110,Male,,Unknown,Hyderabad,Telangana,Electronics,Power Bank,3,905,,Net Banking,Cancelled,
+1021,2024-01-11,C074,Male,41,36-45,Bangalore,Karnataka,Home,Bedsheet,1,5876,0.3,Upi,Cancelled,4113.2
+1022,2024-01-04,C042,Male,,Unknown,Hyderabad,Telangana,Health,Protein Powder,1,3851,0.3,Upi,Cancelled,2695.7
+1023,2024-01-18,C097,Other,42,36-45,Bangalore,Karnataka,Health,Protein Powder,1,1295,0.05,Upi,Cancelled,1230.25
+1024,2024-02-27,C081,Other,44,36-45,Pune,Maharashtra,Electronics,Headphones,1,5093,0.1,Upi,Delivered,4583.7
+1025,2024-01-08,C106,Male,,Unknown,Chennai,Tamil Nadu,Beauty,Skincare Kit,2,5489,0.05,Debit Card,Delivered,10429.1
+1026,2024-02-01,C040,Female,38,36-45,Hyderabad,Telangana,Electronics,Smart Watch,2,5201,0.05,Upi,Cancelled,9881.9
+1027,2024-02-06,C061,Male,,Unknown,Bangalore,Karnataka,Beauty,Skincare Kit,1,599,0.1,Credit Card,Cancelled,539.1
+1028,2024-02-15,C082,Male,,Unknown,Chennai,Tamil Nadu,Electronics,Headphones,3,4072,0.3,Debit Card,Delivered,8551.199999999999
+1029,2024-02-29,C020,Other,48,46-59,Mumbai,Maharashtra,Home,Bedsheet,1,3401,0.05,Upi,Cancelled,3230.95
+1030,2024-02-06,C048,Other,53,46-59,Chennai,Tamil Nadu,Electronics,Wireless Mouse,3,5749,0.1,Net Banking,Cancelled,15522.300000000001
+1031,2024-02-14,C105,Male,23,18-25,Kolkata,West Bengal,Beauty,Skincare Kit,3,733,0.2,Debit Card,Cancelled,1759.2
+1032,2024-01-17,C033,Female,,Unknown,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,3,5373,,Net Banking,Cancelled,
+1033,2024-02-29,C033,Male,36,36-45,Hyderabad,Telangana,Electronics,Smart Watch,3,3805,0.0,Credit Card,Returned,11415.0
+1034,2024-01-01,C100,Male,,Unknown,Mumbai,Maharashtra,Electronics,Headphones,2,5443,0.3,Cod,Cancelled,7620.2
+1035,2024-03-01,C011,Male,31,26-35,Delhi,Delhi,Fashion,T-Shirt,1,761,0.05,Upi,Returned,722.9499999999999
+1036,2024-01-10,C038,Female,53,46-59,Hyderabad,Telangana,Home,Curtains,1,5561,0.15,Credit Card,Returned,4726.849999999999
+1037,2024-01-06,C012,Other,,Unknown,Delhi,Delhi,Beauty,Skincare Kit,2,2294,0.2,Net Banking,Returned,3670.4
+1038,2024-01-24,C015,Female,,Unknown,Bangalore,Karnataka,Home,Curtains,2,614,0.05,Credit Card,Delivered,1166.6
+1039,2024-01-08,C085,Male,34,26-35,Bangalore,Karnataka,Home,Curtains,3,2016,0.0,Credit Card,Cancelled,6048.0
+1040,2024-02-01,C088,Other,,Unknown,Bangalore,Karnataka,Beauty,Skincare Kit,1,5110,0.1,Credit Card,Cancelled,4599.0
+1041,2024-02-27,C103,Female,,Unknown,Bangalore,Karnataka,Health,Protein Powder,2,2646,0.15,Cod,Returned,4498.2
+1042,2024-02-13,C051,Female,19,18-25,Mumbai,Maharashtra,Electronics,Smart Watch,1,5156,0.3,Debit Card,Returned,3609.2
+1043,2024-01-02,C005,Female,,Unknown,Kolkata,West Bengal,Fashion,Jeans,3,5499,0.1,Cod,Returned,14847.300000000001
+1044,2024-01-12,C077,Female,24,18-25,Mumbai,Maharashtra,Home,Curtains,1,4596,0.2,Upi,Delivered,3676.8
+1045,2024-02-14,C032,Male,,Unknown,Kolkata,West Bengal,Health,Protein Powder,3,5333,0.15,Upi,Cancelled,13599.15
+1046,2024-01-16,C028,Female,,Unknown,Chennai,Tamil Nadu,Beauty,Skincare Kit,3,3909,0.15,Net Banking,Cancelled,9967.949999999999
+1047,2024-01-14,C058,Other,,Unknown,Pune,Maharashtra,Electronics,Headphones,1,2775,0.3,Cod,Returned,1942.4999999999998
+1048,2024-01-04,C103,Male,,Unknown,Kolkata,West Bengal,Home,Bedsheet,2,5686,0.05,Debit Card,Cancelled,10803.4
+1049,2024-01-04,C078,Other,61,60+,Kolkata,West Bengal,Electronics,Power Bank,2,2822,0.1,Credit Card,Cancelled,5079.6
+1050,2024-01-14,C025,Female,61,60+,Delhi,Delhi,Health,Protein Powder,2,4596,0.3,Debit Card,Returned,6434.4
+1051,2024-01-13,C008,Female,56,46-59,Hyderabad,Telangana,Electronics,Power Bank,1,1374,0.15,Upi,Cancelled,1167.8999999999999
+1052,2024-02-29,C024,Other,,Unknown,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,1,1117,0.2,Upi,Cancelled,893.6
+1053,2024-01-30,C097,Female,56,46-59,Kolkata,West Bengal,Electronics,Smart Watch,2,5362,0.3,Upi,Cancelled,7506.799999999999
+1054,2024-01-06,C094,Female,38,36-45,Chennai,Tamil Nadu,Health,Protein Powder,3,880,0.3,Credit Card,Returned,1847.9999999999998
+1055,2024-02-28,C119,Male,23,18-25,Hyderabad,Telangana,Home,Curtains,3,986,0.2,Cod,Delivered,2366.4
+1056,2024-01-06,C047,Female,,Unknown,Mumbai,Maharashtra,Health,Protein Powder,2,2752,0.1,Debit Card,Delivered,4953.6
+1057,2024-03-01,C008,Male,53,46-59,Bangalore,Karnataka,Health,Protein Powder,3,1477,0.0,Upi,Cancelled,4431.0
+1058,2024-02-23,C091,Other,,Unknown,Pune,Maharashtra,Beauty,Lipstick,3,3103,0.2,Net Banking,Delivered,7447.200000000001
+1059,2024-02-10,C069,Female,,Unknown,Pune,Maharashtra,Beauty,Lipstick,2,1937,0.05,Credit Card,Cancelled,3680.2999999999997
+1060,2024-02-28,C094,Other,,Unknown,Bangalore,Karnataka,Electronics,Power Bank,3,3807,0.2,Net Banking,Cancelled,9136.800000000001
+1061,2024-02-24,C117,Other,23,18-25,Hyderabad,Telangana,Electronics,Smart Watch,1,4179,0.0,Credit Card,Returned,4179.0
+1062,2024-02-17,C081,Female,60,60+,Delhi,Delhi,Fashion,Dress,2,2460,0.1,Net Banking,Delivered,4428.0
+1063,2024-02-23,C050,Female,62,60+,Delhi,Delhi,Fashion,T-Shirt,3,1072,,Cod,Returned,
+1064,2024-02-06,C071,Male,,Unknown,Bangalore,Karnataka,Health,Protein Powder,1,3107,0.0,Debit Card,Delivered,3107.0
+1065,2024-01-20,C048,Other,,Unknown,Chennai,Tamil Nadu,Home,Curtains,3,5761,0.1,Cod,Cancelled,15554.7
+1066,2024-02-18,C106,Female,22,18-25,Kolkata,West Bengal,Fashion,Jeans,2,4828,,Cod,Cancelled,
+1067,2024-01-16,C005,Female,,Unknown,Bangalore,Karnataka,Electronics,Bluetooth Speaker,1,1389,,Credit Card,Returned,
+1068,2024-01-10,C112,Male,,Unknown,Bangalore,Karnataka,Health,Protein Powder,3,1996,,Credit Card,Delivered,
+1069,2024-02-02,C063,Female,61,60+,Delhi,Delhi,Electronics,Bluetooth Speaker,2,4346,0.2,Net Banking,Cancelled,6953.6
+1070,2024-01-12,C080,Male,,Unknown,Mumbai,Maharashtra,Electronics,Wireless Mouse,1,4551,,Cod,Cancelled,
+1071,2024-02-21,C015,Male,20,18-25,Delhi,Delhi,Health,Protein Powder,1,3789,0.05,Credit Card,Delivered,3599.5499999999997
+1072,2024-02-03,C096,Female,,Unknown,Hyderabad,Telangana,Home,Curtains,1,4298,0.3,Net Banking,Returned,3008.6
+1073,2024-02-09,C021,Female,65,60+,Bangalore,Karnataka,Beauty,Skincare Kit,2,2091,0.05,Cod,Cancelled,3972.8999999999996
+1074,2024-01-05,C047,Female,,Unknown,Pune,Maharashtra,Electronics,Smart Watch,1,2539,0.3,Net Banking,Delivered,1777.3
+1075,2024-01-06,C041,Male,,Unknown,Bangalore,Karnataka,Fashion,T-Shirt,1,3267,0.3,Net Banking,Cancelled,2286.8999999999996
+1076,2024-03-01,C019,Other,,Unknown,Kolkata,West Bengal,Fashion,Jeans,3,4696,0.1,Credit Card,Delivered,12679.2
+1077,2024-02-03,C055,Male,,Unknown,Bangalore,Karnataka,Beauty,Skincare Kit,1,1167,,Credit Card,Returned,
+1078,2024-01-08,C054,Other,64,60+,Kolkata,West Bengal,Home,Curtains,3,609,0.15,Credit Card,Delivered,1552.95
+1079,2024-02-14,C071,Female,49,46-59,Kolkata,West Bengal,Fashion,Dress,2,840,0.2,Credit Card,Returned,1344.0
+1080,2024-01-18,C036,Other,58,46-59,Delhi,Delhi,Electronics,Smart Watch,2,1945,0.0,Credit Card,Delivered,3890.0
+1081,2024-02-21,C085,Male,,Unknown,Chennai,Tamil Nadu,Health,Protein Powder,3,813,0.1,Net Banking,Cancelled,2195.1
+1082,2024-01-19,C026,Female,56,46-59,Mumbai,Maharashtra,Home,Kitchen Set,2,4416,0.1,Credit Card,Cancelled,7948.8
+1083,2024-02-02,C011,Female,,Unknown,Delhi,Delhi,Beauty,Skincare Kit,1,5308,0.15,Credit Card,Delivered,4511.8
+1084,2024-01-03,C003,Male,,Unknown,Hyderabad,Telangana,Home,Curtains,2,5982,,Debit Card,Cancelled,
+1085,2024-01-10,C075,Female,,Unknown,Hyderabad,Telangana,Beauty,Lipstick,1,4817,0.1,Upi,Cancelled,4335.3
+1086,2024-01-29,C022,Female,,Unknown,Kolkata,West Bengal,Health,Protein Powder,1,4176,0.1,Net Banking,Delivered,3758.4
+1087,2024-01-14,C083,Other,25,18-25,Hyderabad,Telangana,Electronics,Smart Watch,2,4211,0.15,Upi,Delivered,7158.7
+1088,2024-01-11,C042,Male,,Unknown,Mumbai,Maharashtra,Fashion,Dress,2,3400,0.0,Debit Card,Returned,6800.0
+1089,2024-01-02,C005,Other,24,18-25,Pune,Maharashtra,Home,Curtains,3,3261,,Credit Card,Returned,
+1090,2024-01-14,C083,Female,,Unknown,Hyderabad,Telangana,Fashion,T-Shirt,3,5177,0.2,Cod,Delivered,12424.800000000001
+1091,2024-01-09,C042,Male,,Unknown,Delhi,Delhi,Fashion,Dress,1,4052,0.15,Cod,Returned,3444.2
+1092,2024-01-13,C112,Other,,Unknown,Hyderabad,Telangana,Home,Kitchen Set,2,5587,,Upi,Delivered,
+1093,2024-01-04,C093,Female,46,46-59,Chennai,Tamil Nadu,Health,Protein Powder,3,5763,0.0,Upi,Cancelled,17289.0
+1094,2024-02-06,C058,Male,,Unknown,Pune,Maharashtra,Home,Kitchen Set,1,5937,0.3,Credit Card,Cancelled,4155.9
+1095,2024-02-18,C055,Female,,Unknown,Hyderabad,Telangana,Electronics,Power Bank,1,3161,0.15,Upi,Cancelled,2686.85
+1096,2024-01-29,C093,Male,18,18-25,Delhi,Delhi,Beauty,Skincare Kit,3,2732,0.3,Net Banking,Delivered,5737.2
+1097,2024-02-02,C008,Male,,Unknown,Mumbai,Maharashtra,Home,Kitchen Set,3,3354,0.0,Upi,Returned,10062.0
+1098,2024-01-26,C038,Male,,Unknown,Hyderabad,Telangana,Home,Kitchen Set,2,4110,,Debit Card,Delivered,
+1099,2024-01-14,C025,Other,,Unknown,Pune,Maharashtra,Fashion,Dress,3,3554,,Upi,Cancelled,
+1100,2024-01-31,C045,Other,19,18-25,Pune,Maharashtra,Home,Curtains,3,1791,0.2,Debit Card,Delivered,4298.400000000001
+1101,2024-01-28,C116,Other,21,18-25,Chennai,Tamil Nadu,Fashion,Dress,3,3872,,Upi,Delivered,
+1102,2024-01-27,C063,Other,,Unknown,Kolkata,West Bengal,Electronics,Power Bank,3,858,0.2,Cod,Returned,2059.2000000000003
+1103,2024-01-06,C053,Other,64,60+,Pune,Maharashtra,Health,Protein Powder,2,4797,0.15,Upi,Delivered,8154.9
+1104,2024-02-09,C028,Other,20,18-25,Mumbai,Maharashtra,Beauty,Lipstick,1,1995,0.15,Credit Card,Delivered,1695.75
+1105,2024-02-29,C104,Other,,Unknown,Pune,Maharashtra,Electronics,Smart Watch,2,2185,0.1,Credit Card,Delivered,3933.0
+1106,2024-01-16,C038,Female,,Unknown,Kolkata,West Bengal,Electronics,Bluetooth Speaker,1,5235,0.1,Credit Card,Delivered,4711.5
+1107,2024-02-28,C064,Other,,Unknown,Mumbai,Maharashtra,Beauty,Skincare Kit,1,1898,0.0,Debit Card,Returned,1898.0
+1108,2024-02-16,C005,Female,32,26-35,Delhi,Delhi,Beauty,Skincare Kit,2,762,0.3,Cod,Delivered,1066.8
+1109,2024-02-21,C067,Female,,Unknown,Pune,Maharashtra,Electronics,Headphones,1,723,0.05,Net Banking,Delivered,686.85
+1110,2024-01-06,C044,Other,,Unknown,Chennai,Tamil Nadu,Fashion,T-Shirt,2,3701,0.0,Upi,Delivered,7402.0
+1111,2024-02-24,C096,Male,38,36-45,Kolkata,West Bengal,Home,Bedsheet,1,2041,0.1,Upi,Delivered,1836.9
+1112,2024-01-22,C114,Male,19,18-25,Mumbai,Maharashtra,Home,Kitchen Set,1,3103,0.05,Upi,Returned,2947.85
+1113,2024-02-11,C047,Other,23,18-25,Kolkata,West Bengal,Home,Curtains,2,3671,,Net Banking,Delivered,
+1114,2024-02-25,C049,Other,,Unknown,Pune,Maharashtra,Health,Protein Powder,3,636,0.2,Credit Card,Cancelled,1526.4
+1115,2024-01-22,C023,Male,,Unknown,Pune,Maharashtra,Electronics,Bluetooth Speaker,3,3021,,Credit Card,Cancelled,
+1116,2024-02-20,C005,Other,,Unknown,Kolkata,West Bengal,Beauty,Lipstick,2,2434,0.15,Debit Card,Cancelled,4137.8
+1117,2024-01-18,C053,Female,37,36-45,Kolkata,West Bengal,Health,Protein Powder,3,786,0.05,Cod,Returned,2240.1
+1118,2024-01-25,C025,Other,,Unknown,Hyderabad,Telangana,Home,Bedsheet,1,2921,0.0,Upi,Cancelled,2921.0
+1119,2024-01-03,C055,Female,,Unknown,Chennai,Tamil Nadu,Beauty,Lipstick,1,4351,,Debit Card,Returned,
+1120,2024-02-06,C062,Male,,Unknown,Pune,Maharashtra,Fashion,Jeans,3,2796,0.15,Upi,Returned,7129.8
+1121,2024-01-28,C044,Male,35,26-35,Chennai,Tamil Nadu,Fashion,Dress,2,3795,0.3,Credit Card,Delivered,5313.0
+1122,2024-02-01,C112,Other,58,46-59,Chennai,Tamil Nadu,Home,Curtains,2,3848,0.1,Credit Card,Delivered,6926.400000000001
+1123,2024-02-19,C009,Male,39,36-45,Pune,Maharashtra,Health,Protein Powder,1,5580,0.0,Credit Card,Returned,5580.0
+1124,2024-01-01,C077,Other,,Unknown,Hyderabad,Telangana,Electronics,Smart Watch,3,575,,Debit Card,Delivered,
+1125,2024-01-10,C055,Male,21,18-25,Delhi,Delhi,Electronics,Power Bank,3,2117,0.05,Cod,Returned,6033.45
+1126,2024-02-04,C063,Female,,Unknown,Kolkata,West Bengal,Beauty,Skincare Kit,3,3914,0.3,Cod,Cancelled,8219.4
+1127,2024-02-25,C108,Other,29,26-35,Kolkata,West Bengal,Health,Protein Powder,3,1743,0.1,Credit Card,Cancelled,4706.1
+1128,2024-01-25,C045,Female,59,46-59,Bangalore,Karnataka,Home,Curtains,3,4492,0.15,Upi,Cancelled,11454.6
+1129,2024-02-16,C066,Male,21,18-25,Pune,Maharashtra,Home,Kitchen Set,2,5895,0.1,Debit Card,Cancelled,10611.0
+1130,2024-03-01,C090,Female,64,60+,Hyderabad,Telangana,Electronics,Power Bank,1,1512,0.2,Debit Card,Returned,1209.6000000000001
+1131,2024-02-03,C013,Other,,Unknown,Pune,Maharashtra,Electronics,Power Bank,2,1538,0.05,Debit Card,Delivered,2922.2
+1132,2024-01-26,C033,Male,,Unknown,Pune,Maharashtra,Fashion,Dress,3,2467,,Net Banking,Cancelled,
+1133,2024-02-01,C109,Other,50,46-59,Kolkata,West Bengal,Fashion,Dress,3,1740,0.05,Net Banking,Returned,4959.0
+1134,2024-01-07,C067,Other,30,26-35,Kolkata,West Bengal,Beauty,Lipstick,1,1356,0.2,Net Banking,Delivered,1084.8
+1135,2024-02-13,C057,Other,,Unknown,Mumbai,Maharashtra,Beauty,Lipstick,2,4122,0.05,Credit Card,Delivered,7831.799999999999
+1136,2024-01-21,C043,Other,40,36-45,Mumbai,Maharashtra,Home,Bedsheet,2,579,0.1,Debit Card,Delivered,1042.2
+1137,2024-01-21,C069,Male,,Unknown,Chennai,Tamil Nadu,Fashion,Jeans,3,2786,0.1,Net Banking,Cancelled,7522.2
+1138,2024-01-05,C120,Female,63,60+,Chennai,Tamil Nadu,Fashion,Dress,3,4769,0.2,Cod,Delivered,11445.6
+1139,2024-01-02,C076,Other,55,46-59,Chennai,Tamil Nadu,Home,Bedsheet,2,1840,0.0,Net Banking,Returned,3680.0
+1140,2024-01-02,C074,Female,,Unknown,Kolkata,West Bengal,Fashion,Dress,3,4880,,Cod,Cancelled,
+1141,2024-01-21,C040,Other,,Unknown,Pune,Maharashtra,Home,Kitchen Set,2,4370,0.05,Net Banking,Returned,8303.0
+1142,2024-02-20,C079,Other,33,26-35,Kolkata,West Bengal,Electronics,Wireless Mouse,3,1027,0.2,Net Banking,Delivered,2464.8
+1143,2024-02-28,C055,Female,,Unknown,Bangalore,Karnataka,Home,Bedsheet,2,3324,0.3,Cod,Returned,4653.599999999999
+1144,2024-01-18,C054,Other,33,26-35,Bangalore,Karnataka,Fashion,Dress,1,4630,,Net Banking,Cancelled,
+1145,2024-02-09,C102,Male,,Unknown,Hyderabad,Telangana,Fashion,Dress,1,3691,0.1,Net Banking,Delivered,3321.9
+1146,2024-02-13,C112,Male,39,36-45,Hyderabad,Telangana,Home,Bedsheet,3,1636,0.15,Debit Card,Delivered,4171.8
+1147,2024-01-21,C024,Male,,Unknown,Kolkata,West Bengal,Health,Protein Powder,1,1946,0.1,Upi,Delivered,1751.4
+1148,2024-01-21,C034,Other,,Unknown,Chennai,Tamil Nadu,Beauty,Skincare Kit,1,2345,0.15,Cod,Delivered,1993.25
+1149,2024-01-11,C036,Other,65,60+,Delhi,Delhi,Beauty,Lipstick,3,592,,Net Banking,Returned,
+1150,2024-02-13,C007,Other,57,46-59,Pune,Maharashtra,Electronics,Power Bank,3,3316,,Cod,Cancelled,
+1151,2024-02-22,C097,Female,28,26-35,Kolkata,West Bengal,Fashion,Dress,1,1939,0.15,Cod,Returned,1648.1499999999999
+1152,2024-02-25,C108,Male,61,60+,Chennai,Tamil Nadu,Electronics,Smart Watch,2,2408,,Credit Card,Returned,
+1153,2024-02-24,C061,Other,,Unknown,Bangalore,Karnataka,Health,Protein Powder,3,2324,,Debit Card,Delivered,
+1154,2024-02-17,C042,Male,,Unknown,Mumbai,Maharashtra,Health,Protein Powder,2,3603,0.15,Upi,Delivered,6125.099999999999
+1155,2024-02-07,C001,Other,,Unknown,Chennai,Tamil Nadu,Home,Kitchen Set,3,4031,0.2,Net Banking,Returned,9674.4
+1156,2024-01-27,C063,Female,36,36-45,Chennai,Tamil Nadu,Electronics,Smart Watch,1,1656,,Upi,Returned,
+1157,2024-02-16,C101,Other,52,46-59,Kolkata,West Bengal,Fashion,Dress,1,3456,0.15,Debit Card,Returned,2937.6
+1158,2024-01-21,C041,Female,54,46-59,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,1,764,,Cod,Delivered,
+1159,2024-01-17,C030,Male,,Unknown,Bangalore,Karnataka,Health,Protein Powder,2,4505,0.2,Debit Card,Returned,7208.0
+1160,2024-01-22,C102,Female,,Unknown,Bangalore,Karnataka,Electronics,Headphones,3,1542,0.2,Debit Card,Returned,3700.8
+1161,2024-01-30,C079,Female,,Unknown,Delhi,Delhi,Fashion,Dress,1,1441,,Credit Card,Cancelled,
+1162,2024-01-17,C117,Female,,Unknown,Delhi,Delhi,Home,Kitchen Set,1,3423,0.3,Upi,Delivered,2396.1
+1163,2024-02-23,C023,Other,53,46-59,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,1,760,0.05,Debit Card,Returned,722.0
+1164,2024-02-08,C040,Other,,Unknown,Chennai,Tamil Nadu,Fashion,Dress,1,2912,0.05,Net Banking,Cancelled,2766.4
+1165,2024-01-31,C061,Male,45,36-45,Bangalore,Karnataka,Electronics,Power Bank,1,4681,0.0,Cod,Delivered,4681.0
+1166,2024-01-07,C104,Female,,Unknown,Bangalore,Karnataka,Electronics,Wireless Mouse,3,871,0.1,Credit Card,Returned,2351.7000000000003
+1167,2024-01-27,C037,Other,,Unknown,Bangalore,Karnataka,Beauty,Lipstick,3,5406,0.15,Debit Card,Cancelled,13785.3
+1168,2024-02-27,C024,Female,37,36-45,Kolkata,West Bengal,Beauty,Skincare Kit,1,2386,0.2,Net Banking,Cancelled,1908.8000000000002
+1169,2024-01-05,C062,Female,28,26-35,Mumbai,Maharashtra,Beauty,Skincare Kit,3,1359,0.3,Debit Card,Returned,2853.8999999999996
+1170,2024-01-01,C021,Female,21,18-25,Hyderabad,Telangana,Beauty,Skincare Kit,1,913,0.3,Net Banking,Delivered,639.0999999999999
+1171,2024-01-23,C115,Female,,Unknown,Mumbai,Maharashtra,Home,Bedsheet,1,3042,0.0,Debit Card,Delivered,3042.0
+1172,2024-02-16,C062,Male,59,46-59,Delhi,Delhi,Beauty,Lipstick,1,2689,0.0,Debit Card,Cancelled,2689.0
+1173,2024-01-18,C014,Male,36,36-45,Hyderabad,Telangana,Electronics,Bluetooth Speaker,1,730,0.05,Credit Card,Cancelled,693.5
+1174,2024-02-22,C068,Male,57,46-59,Hyderabad,Telangana,Health,Protein Powder,2,4203,,Cod,Delivered,
+1175,2024-02-07,C035,Female,,Unknown,Mumbai,Maharashtra,Beauty,Skincare Kit,2,1209,0.1,Upi,Cancelled,2176.2000000000003
+1176,2024-02-12,C037,Female,,Unknown,Delhi,Delhi,Health,Protein Powder,2,2435,0.2,Credit Card,Delivered,3896.0
+1177,2024-02-02,C107,Other,48,46-59,Bangalore,Karnataka,Home,Bedsheet,1,4551,0.0,Net Banking,Delivered,4551.0
+1178,2024-01-01,C009,Female,32,26-35,Chennai,Tamil Nadu,Home,Curtains,2,5159,0.3,Debit Card,Returned,7222.599999999999
+1179,2024-02-29,C105,Other,26,26-35,Hyderabad,Telangana,Beauty,Lipstick,2,1444,0.3,Debit Card,Delivered,2021.6
+1180,2024-02-25,C020,Female,60,60+,Kolkata,West Bengal,Beauty,Lipstick,3,5208,0.3,Debit Card,Cancelled,10936.8
+1181,2024-01-30,C052,Male,41,36-45,Mumbai,Maharashtra,Health,Protein Powder,2,518,,Debit Card,Returned,
+1182,2024-01-25,C100,Other,46,46-59,Delhi,Delhi,Beauty,Lipstick,1,891,0.3,Debit Card,Returned,623.6999999999999
+1183,2024-02-06,C038,Male,61,60+,Kolkata,West Bengal,Electronics,Power Bank,3,2604,,Net Banking,Delivered,
+1184,2024-02-01,C020,Other,26,26-35,Mumbai,Maharashtra,Beauty,Skincare Kit,2,2155,,Credit Card,Returned,
+1185,2024-01-24,C081,Female,61,60+,Hyderabad,Telangana,Health,Protein Powder,3,2758,0.15,Debit Card,Cancelled,7032.9
+1186,2024-01-12,C005,Female,30,26-35,Delhi,Delhi,Health,Protein Powder,2,3376,0.3,Upi,Delivered,4726.4
+1187,2024-01-30,C061,Male,57,46-59,Kolkata,West Bengal,Beauty,Skincare Kit,1,2802,0.15,Credit Card,Cancelled,2381.7
+1188,2024-01-05,C104,Other,,Unknown,Delhi,Delhi,Home,Bedsheet,1,5332,0.15,Upi,Returned,4532.2
+1189,2024-01-23,C026,Other,,Unknown,Delhi,Delhi,Fashion,T-Shirt,3,4160,0.3,Credit Card,Returned,8736.0
+1190,2024-03-01,C005,Female,37,36-45,Kolkata,West Bengal,Electronics,Headphones,3,4812,0.15,Credit Card,Delivered,12270.6
+1191,2024-01-05,C002,Other,31,26-35,Chennai,Tamil Nadu,Beauty,Lipstick,1,5975,0.3,Cod,Delivered,4182.5
+1192,2024-01-27,C107,Other,,Unknown,Bangalore,Karnataka,Beauty,Skincare Kit,1,2097,0.2,Cod,Cancelled,1677.6000000000001
+1193,2024-02-21,C020,Other,59,46-59,Mumbai,Maharashtra,Health,Protein Powder,1,1783,0.2,Net Banking,Returned,1426.4
+1194,2024-01-17,C054,Female,,Unknown,Mumbai,Maharashtra,Home,Bedsheet,3,5852,0.1,Credit Card,Delivered,15800.4
+1195,2024-02-04,C070,Other,26,26-35,Chennai,Tamil Nadu,Health,Protein Powder,1,3543,0.0,Cod,Cancelled,3543.0
+1196,2024-01-22,C120,Female,59,46-59,Hyderabad,Telangana,Beauty,Skincare Kit,2,5250,0.1,Cod,Returned,9450.0
+1197,2024-02-19,C005,Other,38,36-45,Mumbai,Maharashtra,Electronics,Power Bank,1,870,0.05,Net Banking,Delivered,826.5
+1198,2024-01-28,C102,Female,,Unknown,Pune,Maharashtra,Electronics,Wireless Mouse,3,4771,0.2,Upi,Returned,11450.400000000001
+1199,2024-02-18,C040,Male,63,60+,Mumbai,Maharashtra,Beauty,Skincare Kit,3,3938,0.1,Net Banking,Returned,10632.6
+1200,2024-02-03,C031,Other,,Unknown,Hyderabad,Telangana,Home,Curtains,1,4289,0.15,Credit Card,Returned,3645.65
